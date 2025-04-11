@@ -1,3 +1,2 @@
 # Portfolio
-This is currently a work in progress project.  
-4/11/2025 - added template and dummy data to start
+Welcome to my portfolio. You may request changes or features in Issues.
